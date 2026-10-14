@@ -1,7 +1,3 @@
-Here is a README structure tailored to your repository and built exactly around the four-step framework you provided. It clearly communicates your intent, your technical focus, and your specific ownership of the project.
-
-***
-
 # MPA Cuisine Wonders (Foodhub Restaurant Website)
 
 Welcome to the MPA Cuisine Wonders repository. This project was built using a structured, role-driven approach to ensure clear focus, maintainable code, and a highly polished core user experience.
